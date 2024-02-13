@@ -40,6 +40,12 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 
 ## desenvolvimento das paginas 
 
+### Os comentários do desenvolvimento encontrasse dentro de cada update do código
+
+ <p align="left">
+  <img src="info/comentarios update.png" alt="tela inicial" width="85%"  style="margin-right: 40px;"/>
+  </p>
+
 ### Pagina destaque
  
  <p align="left">
