@@ -33,8 +33,8 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
       - Total de pagamento (payment_total.dart);
   
  <p align="left">
-  <img src="info/projeto inicio.png" alt="tela inicial" width="15%"  style="margin-right: 40px;"/>
-  <img src="info/projeto inicio menu.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/> 
+  <img src="info/projeto inicio.png" alt="tela inicial" width="25%"  style="margin-right: 40px;"/>
+  <img src="info/projeto inicio menu.png" alt="Descrição da Imagem 2" width="25%" style="margin-right: 40px;"/> 
 </p>  
 
 
@@ -49,9 +49,9 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 ### Pagina destaque
  
  <p align="left">
-  <img src="info/pagina destaques.png" alt="tela inicial" width="15%"  style="margin-right: 40px;"/>
-  <img src="info/scroll pagina destaque.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/>
-    <img src="info/destaque concluido.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/> 
+  <img src="info/pagina destaques.png" alt="tela inicial" width="25%"  style="margin-right: 40px;"/>
+  <img src="info/scroll pagina destaque.png" alt="ajuste da lista" width="25%" style="margin-right: 40px;"/>
+    <img src="info/destaque concluido.png" alt="finalização da pagina" width="25%" style="margin-right: 40px;"/> 
 </p>
     
  
