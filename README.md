@@ -36,6 +36,12 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
   <img src="info/projeto inicio.png" alt="tela inicial" width="15%"  style="margin-right: 40px;"/>
   <img src="info/projeto inicio menu.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/> 
 </p>  
+
+
+### desenvolvimento pagina destaques
+
+<img src="info/pagina destaques.png" alt="arquivo figma" width="25%"/>
+
     
  
   
