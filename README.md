@@ -18,7 +18,7 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 [Link para o design no Figma](https://www.figma.com/file/NUkj8R3K3m19OhZD9x4Xwo/Ristorante-Panucci?type=design&node-id=0-1&mode=design&t=nLc3jye7qwFfxG3y-0)
 
 
-## No projeto inicial 
+## Projeto inicial 
  
      Aqui temos app bar e o bottom navigation bar e os demais compomentes que serão necessários  
  
@@ -38,10 +38,14 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 </p>  
 
 
-### desenvolvimento pagina destaques
+## desenvolvimento das paginas 
 
-<img src="info/pagina destaques.png" alt="arquivo figma" width="25%"/>
-
+### Pagina destaque
+ 
+ <p align="left">
+  <img src="info/pagina destaques.png" alt="tela inicial" width="15%"  style="margin-right: 40px;"/>
+  <img src="info/scroll pagina destaque.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/> 
+</p>
     
  
   
