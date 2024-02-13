@@ -12,10 +12,35 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 
  Nesseçario complementar o desenvolvimento baseando-se no arquivo figma disponibilizado
 
-<img src="info/arquivo figma.png" alt="final desenvolvimento header" width="100%"/>
+<img src="info/arquivo figma.png" alt="arquivo figma" width="100%"/>
 
 
 [Link para o design no Figma](https://www.figma.com/file/NUkj8R3K3m19OhZD9x4Xwo/Ristorante-Panucci?type=design&node-id=0-1&mode=design&t=nLc3jye7qwFfxG3y-0)
+
+
+## No projeto inicial 
+ 
+     Aqui temos app bar e o bottom navigation bar e os demais compomentes que serão necessários  
+ 
+      - Contador (counter_component.dart);
+      - Cartão de bebidas (drink_item.dart);
+      - Cartão de comidas (food_item.dart);
+      - Cartão de destaque (highlight_item.dart);
+      - Drawer, que é o menu lateral que já está montado, e abre ao clicarmos 
+      no ícone de menu da app bar (main_drawer.dart);
+      - Cartão da seção de pagamento (order_item.dart);
+      - Tipos de pagamento (payment_method.dart);
+      - Total de pagamento (payment_total.dart);
+  
+ <p align="left">
+  <img src="info/projeto inicio.png" alt="tela inicial" width="15%"  style="margin-right: 40px;"/>
+  <img src="info/projeto inicio menu.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/> 
+</p>  
+    
+ 
+  
+
+ 
 
 
 
