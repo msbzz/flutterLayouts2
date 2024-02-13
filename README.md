@@ -44,7 +44,8 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
  
  <p align="left">
   <img src="info/pagina destaques.png" alt="tela inicial" width="15%"  style="margin-right: 40px;"/>
-  <img src="info/scroll pagina destaque.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/> 
+  <img src="info/scroll pagina destaque.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/>
+    <img src="info/destaque concluido.png" alt="Descrição da Imagem 2" width="15%" style="margin-right: 40px;"/> 
 </p>
     
  

@@ -17,6 +17,8 @@ final String itemDescription;
       child: Column(
         children: <Widget>[
           Image(
+            height: 116.0,
+            width: double.infinity,
             image: AssetImage(imageURI),
             fit: BoxFit.cover,
           ),
@@ -26,7 +28,7 @@ final String itemDescription;
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 Text(itemTitle, style: const TextStyle(fontSize: 16),),
-                Text("R\$ " + itemPrice),
+                Text("R\$  $itemPrice"),
                 Padding(
                   padding: const EdgeInsets.symmetric(vertical: 8.0),
                   child: Text(itemDescription),

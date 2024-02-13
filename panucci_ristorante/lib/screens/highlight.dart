@@ -11,9 +11,17 @@ class Highlight extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.fromLTRB(16.0,16.0,16.0,0),
       child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
+        crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
-          const Text('Destaques do dia'), // Título fixo
+          const Padding(
+            padding: EdgeInsets.only(bottom:16.0),
+            child:Text('Destaques do dia',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontFamily: 'Caveat',
+              fontSize:32)), // Título fixo
+           ), 
+          
           Expanded( // Faz com que o CustomScrollView ocupe o restante do espaço disponível
             child: CustomScrollView(
               slivers: <Widget>[
