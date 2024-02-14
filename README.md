@@ -57,21 +57,14 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
  
 
 ### Tela menu (FoodMenu)
-
-
-<table style="width: 100%; border-collapse: collapse;" border="0">
-  <tr>
-    <td style="width: 50%; border: none;"> - Ativação do 'bottomNavigationBar'</td>
-    <td style="width: 50%; border: none;"> <img src="info/acionando bottomNavigationBar.png" alt="ativando menu" style="width: 55%; display: block;"/></td>
-  </tr>
-</table>
-
+ 
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
   <tr>
-    <td style="width: 33%; border: none;"><img src="info/inicio foodMenu.png" alt="inicio tela menu" style="width: 55%; display: block;"/></td>
-    <td style="width: 33%; border: none;"><img src="info/menuItem over flow.png" alt="erro over flow menu" style="width: 55%; display: block;"/></td>
-    <td style="width: 33%; border: none;"><img src="info/menuItemFinal.png" alt="finalização da pagina menu" style="width: 55%; display: block;"/></td>
+    <td style="width: 25%; border: none;"> <img src="info/acionando bottomNavigationBar.png" alt="ativando menu" style="width: 55%; display: block;"/></td>
+    <td style="width: 25%; border: none;"><img src="info/inicio foodMenu.png" alt="inicio tela menu" style="width: 55%; display: block;"/></td>
+    <td style="width: 25%; border: none;"><img src="info/menuItem over flow.png" alt="erro over flow menu" style="width: 55%; display: block;"/></td>
+    <td style="width: 25%; border: none;"><img src="info/menuItemFinal.png" alt="finalização da pagina menu" style="width: 55%; display: block;"/></td>
   </tr>
 </table>
 
@@ -91,9 +84,10 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 
  <table style="width: 100%; border-collapse: collapse;" border="0">
   <tr>
-      <td style="width: 33%; border: none;"> <img src="info/checkout chamda.png" alt="ativando menu" style="width: 45%; display: block;"/></td>
-      <td style="width: 33%; border: none;"> <img src="info/checkout part1.png" alt="lista pedidos" style="width: 45%; display: block;"/></td>
-      <td style="width: 33%; border: none;"> <img src="info/checkout part2.png" alt="ajuste texto" style="width: 45%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/checkout chamda.png" alt="ativando menu" style="width: 65%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/checkout part1.png" alt="lista pedidos" style="width: 65%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/checkout part2.png" alt="ajuste texto" style="width: 65%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/checkout part3.png" alt="ajuste texto" style="width: 65%; display: block;"/></td>
        
   </tr>
 </table>
