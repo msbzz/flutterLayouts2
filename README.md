@@ -38,7 +38,7 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 </p>  
 
 
-## desenvolvimento das paginas 
+## desenvolvimento das Telas 
 
 ### Os comentários do desenvolvimento encontrasse dentro de cada update do código
 
@@ -94,6 +94,30 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
    
     
  
+ ## Responsividade das telas (Modo Landscape)
+
+
+  - Devido as telas terem sido desenvolvidos em modo 'Portrait' algumas telas tiveram que ser revisadas ao serem colocadas em modo 'Landscape'
+
+### Tela bebidas (DrinkMenu)
+
+ <table style="width: 100%; border-collapse: collapse;" border="0">
+  <tr>
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part1.png" alt="ativando menu" style="width: 65%; display: block;"/></td>
+  </tr>
+  <tr>     
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part2.png" alt="lista pedidos" style="width: 65%; display: block;"/></td>
+  </tr>
+  <tr>     
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part3.png" alt="ajuste texto" style="width: 65%; display: block;"/></td>
+    </tr> 
+    <tr>   
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part4.png" alt="ajuste texto" style="width: 65%; display: block;"/></td>
+       
+  </tr>
+</table>
+
+### Tela destaque (HighLiths)
   
 
  
