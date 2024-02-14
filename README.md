@@ -55,7 +55,7 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 </p>
 
  
- 
+
 ### Pagina FoodMenu
 
   - Ativação do 'bottomNavigationBar'
@@ -71,17 +71,7 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
   </tr>
 </table
 
-<!--
-   <p align="left">
-  <img src="info/inicio foodMenu.png" alt="inicio tela menu" width="25%"  style="margin-right: 40px;"/>
-  <img src="info/menuItem over flow.png" alt="erro over flow menu" width="25%" style="margin-right:40px;"/>
-
-  <img src="info/menuItemFinal.png" alt="finalização da pagina menu" width="25%"/> 
-  
-</p>
-
-
--->
+ 
     
  
   
