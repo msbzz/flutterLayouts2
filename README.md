@@ -62,14 +62,25 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 
   - Inclusão do titulo do menu e desenvolvimento da lista de comidas
 
-   <p align="left">
-  <img src="info/inicio foodMenu.png" alt="tela inicial" width="25%"  style="margin-right: 40px;"/>
-  <img src="info/menuItem over flow.png" alt="ajuste da lista" width="25%" style="margin-right: 40px;"/>
+<table style="width: 100%; border-collapse: collapse;" border="0">
+  <tr>
+    <td style="width: 33%; border: none;"><img src="info/inicio foodMenu.png" alt="inicio tela menu" style="width: 55%; display: block;"/></td>
+    <td style="width: 33%; border: none;"><img src="info/menuItem over flow.png" alt="erro over flow menu" style="width: 55%; display: block;"/></td>
+    <td style="width: 33%; border: none;"><img src="info/menuItemFinal.png" alt="finalização da pagina menu" style="width: 55%; display: block;"/></td>
+  </tr>
+</table
 
- <!--
- <img src="info/destaque concluido.png" alt="finalização da pagina" width="25%" style="margin-right: 40px;"/> 
- --> 
+<!--
+   <p align="left">
+  <img src="info/inicio foodMenu.png" alt="inicio tela menu" width="25%"  style="margin-right: 40px;"/>
+  <img src="info/menuItem over flow.png" alt="erro over flow menu" width="25%" style="margin-right:40px;"/>
+
+  <img src="info/menuItemFinal.png" alt="finalização da pagina menu" width="25%"/> 
+  
 </p>
+
+
+-->
     
  
   
