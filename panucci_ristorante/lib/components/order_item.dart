@@ -32,7 +32,9 @@ class _OrderItemState extends State<OrderItem> {
             image: AssetImage(widget.imageURI),
             fit: BoxFit.cover,
           ),
-          Padding(
+
+          Expanded(
+            child:Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16.0),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -41,7 +43,9 @@ class _OrderItemState extends State<OrderItem> {
                 Text(widget.itemPrice),
               ],
             ),
-          ),
+          )  
+            )
+          ,
           const Padding(
             padding: EdgeInsets.only(right: 8.0),
             child: CounterComponent(),
