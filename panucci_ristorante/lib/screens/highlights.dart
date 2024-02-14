@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:panucci_ristorante/cardapio.dart';
 import 'package:panucci_ristorante/components/highlight_item.dart';
 
-class Highlight extends StatelessWidget {
-  const Highlight({Key? key}) : super(key: key);
+class Highlights extends StatelessWidget {
+  const Highlights({Key? key}) : super(key: key);
   final List items = destaques;
 
   @override

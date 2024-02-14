@@ -7,19 +7,30 @@ class FoodMenu extends StatelessWidget {
   final List items = comidas;
   @override
   Widget build(BuildContext context) {
-    return const Padding(
-      padding: EdgeInsets.fromLTRB(16.0, 16.0, 16.0, 0),
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(16.0, 16.0, 16.0, 0),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
-          Padding(
+          const Padding(
             padding: EdgeInsets.only(bottom: 16.0),
             child: Text('Menu',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontFamily: 'Caveat', fontSize: 32)),
           ),
-             Expanded(child: CustomScrollView())
-
+          Expanded(
+              child: CustomScrollView(slivers: <Widget>[
+            SliverList(
+                delegate: SliverChildBuilderDelegate(
+              (context, index) {
+                return FoodItem(
+                    itemTitle: items[index]['name'],
+                    itemPrice: items[index]['price'],
+                    imageURI: items[index]['image']);
+              },
+              childCount: items.length,
+            ))
+          ]))
         ],
       ),
     );
