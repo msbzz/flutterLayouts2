@@ -87,7 +87,19 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 </table>
 
 
- 
+ ### Tela checkout (Checkout)
+
+ <table style="width: 100%; border-collapse: collapse;" border="0">
+  <tr>
+      <td style="width: 25%; border: none;"> <img src="info/checkout part1.png" alt="ativando menu" style="width: 15%; display: block;"/></td>
+      <!--
+      <td style="width: 25%; border: none;"> <img src="info/DrinkMenu scrollview titulo.png" alt="titulo menu" style="width: 55%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenuSEMEspacamento.png" alt="concluindo menu" style="width: 55%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenuEspacamentoEtamanhodaCelula.png" alt="espaçamento e celua do grid" style="width: 55%; display: block;"/></td>
+      -->
+  </tr>
+</table>
+   
     
  
   
