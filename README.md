@@ -46,7 +46,7 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
   <img src="info/comentarios update.png" alt="tela inicial" width="85%"  style="margin-right: 40px;"/>
   </p>
 
-### Pagina destaque
+### Tela destaque (HighLiths)
  
  <p align="left">
   <img src="info/pagina destaques.png" alt="tela inicial" width="25%"  style="margin-right: 40px;"/>
@@ -56,12 +56,16 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 
  
 
-### Pagina FoodMenu
+### Tela menu (FoodMenu)
 
-  - Ativação do 'bottomNavigationBar'
-<img src="info/acionando bottomNavigationBar.png" alt="ativando menu" width="25%" style="margin-left: 40px;"/>
 
-  - Inclusão do titulo do menu e desenvolvimento da lista de comidas
+<table style="width: 100%; border-collapse: collapse;" border="0">
+  <tr>
+    <td style="width: 50%; border: none;"> - Ativação do 'bottomNavigationBar'</td>
+    <td style="width: 50%; border: none;"> <img src="info/acionando bottomNavigationBar.png" alt="ativando menu" style="width: 55%; display: block;"/></td>
+  </tr>
+</table>
+
 
 <table style="width: 100%; border-collapse: collapse;" border="0">
   <tr>
@@ -69,7 +73,16 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
     <td style="width: 33%; border: none;"><img src="info/menuItem over flow.png" alt="erro over flow menu" style="width: 55%; display: block;"/></td>
     <td style="width: 33%; border: none;"><img src="info/menuItemFinal.png" alt="finalização da pagina menu" style="width: 55%; display: block;"/></td>
   </tr>
-</table
+</table>
+
+### Tela Drinks (DrinkMenu)
+
+ <table style="width: 40%; border-collapse: collapse;" border="0">
+  <tr>
+      <td style="width: 50%; border: none;"> <img src="info/drinksMenuInicio.png" alt="ativando menu" style="width: 55%; display: block;"/></td>
+  </tr>
+</table>
+
 
  
     

@@ -15,6 +15,8 @@ final String itemPrice;
       child: Column(
         children: <Widget>[
           Image(
+            width: double.infinity,
+            height: 100,
             image: AssetImage(imageURI),
             fit: BoxFit.cover,
           ),
@@ -24,7 +26,7 @@ final String itemPrice;
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 Text(itemTitle, style: const TextStyle(fontSize: 16),),
-                Text("R\$ " + itemPrice),
+                Text("R\$ $itemPrice"),
               ],
             ),
           ),
