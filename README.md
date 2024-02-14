@@ -53,6 +53,13 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
   <img src="info/scroll pagina destaque.png" alt="ajuste da lista" width="25%" style="margin-right: 40px;"/>
     <img src="info/destaque concluido.png" alt="finalização da pagina" width="25%" style="margin-right: 40px;"/> 
 </p>
+
+
+### Pagina FoodMenu
+
+  - Ativação do 'bottomNavigationBar'
+<img src="info/acionando bottomNavigationBar.png" alt="ativando menu" width="25%" style="margin-left: 40px;"/>
+
     
  
   
