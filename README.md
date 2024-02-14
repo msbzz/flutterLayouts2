@@ -77,9 +77,10 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 
 ### Tela Drinks (DrinkMenu)
 
- <table style="width: 40%; border-collapse: collapse;" border="0">
+ <table style="width: 100%; border-collapse: collapse;" border="0">
   <tr>
-      <td style="width: 50%; border: none;"> <img src="info/drinksMenuInicio.png" alt="ativando menu" style="width: 55%; display: block;"/></td>
+      <td style="width: 50%; border: none;"> <img src="info/drinksMenuInicio.png" alt="ativando menu" style="width: 50%; display: block;"/></td>
+      <td style="width: 50%; border: none;"> <img src="info/DrinkMenu scrollview titulo.png" alt="ativando menu" style="width: 50%; display: block;"/></td>
   </tr>
 </table>
 
