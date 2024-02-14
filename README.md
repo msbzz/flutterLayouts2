@@ -103,23 +103,34 @@ Continuação de um aplicativo 'panucci_ristorante' de cardápio iniciado onde o
 
  <table style="width: 100%; border-collapse: collapse;" border="0">
   <tr>
-      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part1.png" alt="ativando menu" style="width: 65%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part1.png" alt="verificando em landscape" style="width: 65%; display: block;"/></td>
   </tr>
   <tr>     
-      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part2.png" alt="lista pedidos" style="width: 65%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part2.png" alt="modificando para 3 colunas" style="width: 65%; display: block;"/></td>
   </tr>
   <tr>     
-      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part3.png" alt="ajuste texto" style="width: 65%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part3.png" alt="constatando erro do comprimento" style="width: 65%; display: block;"/></td>
     </tr> 
     <tr>   
-      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part4.png" alt="ajuste texto" style="width: 65%; display: block;"/></td>
+      <td style="width: 25%; border: none;"> <img src="info/drinkMenu_horiz_part4.png" alt="corrigindo o erro do comprimento" style="width: 65%; display: block;"/></td>
        
   </tr>
 </table>
 
 ### Tela destaque (HighLiths)
   
-
+ <table style="width: 100%; border-collapse: collapse;" border="0">
+  <tr>
+      <td style="width: 25%; border: none;"> <img src="info/destaques_horix_part1.png" alt="verificando em landscape" style="width: 65%; display: block;"/></td>
+  </tr>
+  <tr>     
+      <td style="width: 25%; border: none;"> <img src="info/destaques_horix_part2.png" alt="modificando para 2 colunas, constatando erro do comprimento" style="width: 65%; display: block;"/></td>
+  </tr>
+      <tr>   
+      <td style="width: 25%; border: none;"> <img src="info/destaques_horix_part3.png" alt="corrigindo o erro do comprimento" style="width: 65%; display: block;"/></td>
+       
+  </tr>
+</table>
  
 
 
